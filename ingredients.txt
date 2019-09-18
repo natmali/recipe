@@ -4,3 +4,5 @@
 chili
 tomato
 chicken salt
+capsicum
+peas
