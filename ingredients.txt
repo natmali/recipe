@@ -6,3 +6,4 @@
 * tomato
 * chili
 * chicken salt
+* capsicum
